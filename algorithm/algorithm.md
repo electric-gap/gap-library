@@ -22,7 +22,7 @@
 <br>
 
 <figure>
-  <img src="Algo_01.jpg" style="width:100%">
+  <img src="Algo_04.jpg" style="width:100%">
   <figcaption>Fig 4 - In the end though, unfortunately on the way back from the kitchen, the waiter drops the pizza on the floor. What will happen next? Whether it will be delivered to the customers depends on the pizzeria’s code of ethics.</figcaption>
 </figure>
 
